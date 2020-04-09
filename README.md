@@ -1,2 +1,2 @@
-# CSCI-230
+# CSCI230
 Palomar College Java GUI Programming
